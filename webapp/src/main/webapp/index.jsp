@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>New user Registration for DevOps Learning and Demo.</h1>
+    <h1>New user Registration for DevOps Learning and Demo (Integration with Jenkins and DockerHub).</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
